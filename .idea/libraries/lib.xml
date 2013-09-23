@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/scala-compiler-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/netty-3.6.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/jackson-databind-2.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/scala-reflect-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/joda-time-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/scala-library-2.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/json4s-ast_2.10-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/json4s-core_2.10-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/paranamer-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/json4s-jackson_2.10-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/nscala-time_2.10-0.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/hookup_2.10-0.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/akka-actor_2.10-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/jackson-annotations-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/scalap-2.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/Java-WebSocket-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/joda-convert-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/config-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/jackson-core-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../linda-base-client/scala/lib/commons-io-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

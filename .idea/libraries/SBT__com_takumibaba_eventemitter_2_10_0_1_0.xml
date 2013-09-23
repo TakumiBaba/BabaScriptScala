@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.takumibaba:eventemitter_2.10:0.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.takumibaba/eventemitter_2.10/0.1.0/jars/eventemitter_2.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.takumibaba/eventemitter_2.10/0.1.0/docs/eventemitter_2.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/com.takumibaba/eventemitter_2.10/0.1.0/srcs/eventemitter_2.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
